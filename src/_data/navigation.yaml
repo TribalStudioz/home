@@ -5,7 +5,7 @@ items:
   - text: Our Programmes
     url: "#"
   - text: Awards
-    url: "#"
+    url: "/posts/my-first-post.md"
   - text: Menu Three
     url: "#"
   - text: Blog
