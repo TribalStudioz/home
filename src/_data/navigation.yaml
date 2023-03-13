@@ -1,8 +1,10 @@
+# No need for URL filter
+
 ---
 items:
-  - text: Menu One
+  - text: Our Programmes
     url: "#"
-  - text: Menu Two
+  - text: Awards
     url: "#"
   - text: Menu Three
     url: "#"
